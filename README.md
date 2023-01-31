@@ -1,3 +1,6 @@
+# click link to see output: https://weather-app-sam19004.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
